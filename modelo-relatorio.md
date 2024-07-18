@@ -31,7 +31,8 @@ Etapa 3:
 A implementação de ferramentas na empresa Abstergo Industries tem como esperado a redução de custos operacionais, aumento da escalabilidade e flexibilidade dos serviços, e melhoria na segurança e eficiência dos processos. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 ## Anexos
-https://docs.aws.amazon.com/ec2/
+
+https://docs.aws.amazon.com/ec2/?icmpid=docs_homepage_featuredsvcs
 https://docs.aws.amazon.com/s3/?icmpid=docs_homepage_featuredsvcs
 https://docs.aws.amazon.com/lambda/?icmpid=docs_homepage_featuredsvcs
 
